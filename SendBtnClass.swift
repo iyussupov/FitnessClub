@@ -11,7 +11,7 @@ import UIKit
 class SendBtnClass: UIButton {
         
         override func awakeFromNib() {
-            layer.cornerRadius = 15.0
+            layer.cornerRadius = 20.0
         }
 
 }
